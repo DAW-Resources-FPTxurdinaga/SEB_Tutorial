@@ -1,5 +1,23 @@
 # SEB konfigurazio fitxategiak
 
+## ⚙️ Konfigurazio motak
+
+SEB-ek bi konfigurazio mota nagusi eskaintzen ditu, konfigurazio menutik prestatzen direnak:
+
+### 1. Azterketarako konfigurazioa
+
+Aukera honek azterketa baterako konfigurazio-fitxategi zehatza sortzeko aukera ematen du. Behin behineko konfigurazioak behar dituzunean erabilgarria da, azterketaren iraupenera mugatuta daudenak.
+
+![Azterketarako konfigurazio menua](../../images/menu_config_exam.png)
+*1. irudia: Azterketa-fitxategia sortzeko konfigurazio menua*
+
+### 2. Bezerorako konfigurazioa
+
+Aukera honek konfigurazio iraunkorra sortzen du, SEB bezeroari aplikatuko zaiona martxan jarri bakoitzean. Ikasgelako ordenagailuetan konfigurazio iraunkorrak ezartzeko erabilgarria.
+
+![Bezerorako konfigurazio menua](../../images/menu_config_client.png)
+*2. irudia: SEB bezerorako konfigurazio menua*
+
 ## 🔒 Konfigurazio aurreratua: Moodle-rako SEB konfigurazioa
 
 **Erabilera-kasua**: Ikasleek Moodle-n bakarrik eta baimendutako baliabideetan sartzeko aukera izan dezaten azterketetan.
@@ -36,26 +54,34 @@ Nabigazioa baimendutako orrialdeetara mugatzeko:
 ![Baimendutako URL-ak SEB-en](../../images/url_permitidas_network.png)
 *2. irudia: Baimendutako URL-ak "Network" fitxan*
 
+### 🔒 2. Adibidea: Baimendutako aplikazioak
+
+**Erabilera-kasua**: Ikasleek garapen-tresna jakin batzuk erabili behar dituztenean, lineako baliabideekin batera.
+
+**Ezaugarri nagusiak**:
+- Aurreko adibideko URL berberak baimenduta
+- Bi aplikazio gehiago gaituta:
+  - Windows Explorer (fitxategi-kudeaketarako)
+  - Visual Studio Code (garapenerako)
+
+**Aplikazioen konfigurazioa**:
+1. Joan "Applications" fitxara
+2. Gaitu "Allow applications" aukera
+3. Gehitu baimendutako aplikazioak:
+   - `explorer.exe` (Windows Exploratzailea)
+   - `code.exe` (Visual Studio Code)
+
+![Baimendutako aplikazioen konfigurazioa - VS Code](../../images/menu_applications_VS-code.png)
+*3. irudia: Visual Studio Code aplikazio gisa gaituz*
+
+![Baimendutako aplikazioen konfigurazioa - Exploratzailea](../../images/menu_applications_explorer.png)
+*4. irudia: Windows Exploratzailea aplikazio gisa gaituz*
+
 ### Nola erabili
 
 1. [Deskargatu .seb konfigurazio-fitxategia](https://drive.google.com/file/d/13cdAcXQvs8_Z57c36eWad536QGMj7v01/view?usp=sharing)
 2. Jarraitu [.seb fitxategiak erabiltzeko argibideak](#-nola-erabili-seb-fitxategiak)
 
-## 📥 Eskuragarri dauden konfigurazioak
-
-### 1. Oinarrizko konfigurazioa
-- **Erabilera**: Murriztapen arruntak dituzten azterketetarako
-- **Ezaugarri nagusiak**:
-  - Nabigatzailetik irtetea blokeatuta
-  - Teklatu-lasterbideak desgaituta
-  - Pantaila-azalpena desgaituta
-
-### 2. Konfigurazio aurreratua
-- **Erabilera**: Segurtasun-neurri zorrotzak behar dituzten azterketetarako
-- **Ekarpen gehigarriak**:
-  - Web-kamera bidezko monitorizazioa
-  - Aplikazioen blokeo aurreratua
-  - Jarduera-erregistro zehatza
 
 ## ℹ️ Nola erabili SEB fitxategiak
 

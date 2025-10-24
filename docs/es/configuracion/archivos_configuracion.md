@@ -1,5 +1,23 @@
 # 📁 Archivos de configuración .seb
 
+## ⚙️ Tipos de configuración
+
+SEB ofrece dos tipos principales de configuraciones que puedes preparar desde el menú de configuración:
+
+### 1. Configuración para Examen
+
+Esta opción permite crear un archivo de configuración específico para un examen. Es ideal cuando necesitas configuraciones temporales que solo se aplicarán durante la duración de un examen.
+
+![Menú de configuración para examen](../../images/menu_config_exam.png)
+*Figura 1: Menú de configuración para crear un archivo de examen*
+
+### 2. Configuración para Cliente
+
+Esta opción crea una configuración persistente que se aplicará al cliente SEB cada vez que se inicie. Es útil para configuraciones permanentes en equipos del aula.
+
+![Menú de configuración para cliente](../../images/menu_config_client.png)
+*Figura 2: Menú de configuración para cliente SEB*
+
 ## 📋 Ejemplos de configuración
 
 A continuación se presentan ejemplos prácticos de archivos de configuración .seb para diferentes escenarios de uso.
@@ -39,41 +57,45 @@ Para restringir el acceso únicamente a las páginas web deseadas:
 ![Configuración de URLs permitidas en SEB](../../images/url_permitidas_network.png)
 *Figura 2: Configuración de URLs permitidas en la pestaña Network*
 
-**Cómo usarlo**:
+### 🔒 Ejemplo 2: Aplicaciones permitidas
+
+**Caso de uso**: Exámenes donde los estudiantes necesitan acceder a herramientas de desarrollo específicas junto con recursos en línea.
+
+**Características principales**:
+- Permite el acceso a las mismas URLs del ejemplo anterior
+- Habilita dos aplicaciones adicionales:
+  - Explorador de Windows (para gestión de archivos)
+  - Visual Studio Code (para desarrollo)
+
+**Configuración de aplicaciones**:
+
+1. Ve a la pestaña "Applications"
+2. Habilita "Allow applications"
+3. Añade las aplicaciones permitidas:
+   - `explorer.exe` (Explorador de Windows)
+   - `code.exe` (Visual Studio Code)
+
+![Configuración de aplicaciones permitidas - VS Code](../../images/menu_applications_VS-code.png)
+*Figura 3: Habilitando Visual Studio Code en las aplicaciones permitidas*
+
+![Configuración de aplicaciones permitidas - Explorador](../../images/menu_applications_explorer.png)
+*Figura 4: Habilitando el Explorador de Windows en las aplicaciones permitidas*
+
+**Cómo usarlo":
 
 1. [Descargar archivo de configuración .seb](https://drive.google.com/file/d/13cdAcXQvs8_Z57c36eWad536QGMj7v01/view?usp=sharing)
 2. Sigue las instrucciones de [cómo usar los archivos .seb](#-cómo-usar-los-archivos-seb)
 
 
-## 📥 Configuraciones disponibles
-
-### 1. Configuración básica
-- **Uso**: Exámenes estándar con restricciones básicas
-- **Características principales**:
-  - Bloqueo de salida del navegador
-  - Modo pantalla completa
-  - Deshabilitación de atajos de teclado
-  - Bloqueo de capturas de pantalla
-- [Descargar configuración básica](#) *(enlace pendiente)*
-
-### 2. Configuración avanzada
-- **Uso**: Exámenes de alta seguridad
-- **Características adicionales**:
-  - Lista blanca de sitios web permitidos
-  - Deshabilitación de impresión
-  - Restricciones de red avanzadas
-  - Configuración de teclas permitidas
-- [Descargar configuración avanzada](#) *(enlace pendiente)*
-
 ## 📝 Cómo usar los archivos .seb
 
-1. **Descarga** el archivo de configuración deseado
+1. **Descarga** el archivo de configuración deseado, y al abrirlo se ejecutará en SEB
 2. **En Moodle**:
-   - Ve al cuestionario donde quieras aplicar la configuración
-   - En la configuración del cuestionario, busca la sección "Safe Exam Browser"
-   - Selecciona "Usar archivo de configuración existente"
-   - Sube el archivo .seb descargado
-   - Guarda los cambios
+    - Ve al cuestionario donde quieras aplicar la configuración
+    - En la configuración del cuestionario, busca la sección "Safe Exam Browser"
+    - Selecciona "Usar archivo de configuración existente"
+    - Sube el archivo .seb descargado
+    - Guarda los cambios
 
 ## 🔧 Personalización de configuraciones
 
