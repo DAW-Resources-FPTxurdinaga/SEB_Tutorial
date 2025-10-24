@@ -3,8 +3,9 @@ site_url: https://example.com/Tutorial_SEB/
 theme:
   name: material
   language: eu
-  logo: images/logo.png
+  logo: images/Icono_TX.png
   favicon: http://fptxurdinaga.eus/wp-content/uploads/2022/10/favicon-96x96-1.png
+  custom_dir: overrides
   features:
     - navigation.tracking
     - navigation.sections
