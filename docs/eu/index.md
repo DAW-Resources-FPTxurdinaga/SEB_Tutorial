@@ -18,6 +18,19 @@ Ongi etorri Safe Exam Browser (SEB) tutorialera. Material honek azaltzen du nola
   - Instalazio pausoak sistema eragile desberdinetan
   - Pantaila-argazkiak eta argibideak
 
+### [3. Konfigurazioa](konfigurazioa/konfigurazioa_oinarria.md)
+- [Konfigurazioa Oinarrizkoa](konfigurazioa/konfigurazioa_oinarria.md)
+    - SEB-ren ezarpen orokorrak
+    - Sare konfigurazioa
+    - Segurtasun aukerak
+- [Moodle-rekin integrazioa](konfigurazioa/moodle_integrazioa.md)
+    - SEB moduluaren konfigurazioa Moodle-n
+    - Konfigurazioak azterketetara esleitzea
+- [Konfigurazio fitxategiak (.seb)](konfigurazioa/fitxategiak_konfigurazioa.md)
+    - Konfigurazio motak
+    - Profilen sortzea eta aldatzea
+    - Konfigurazioak inportatzea/esportatzea
+
 ## Nola erabili tutorial hau
 
 - Erabili ezkerreko menua gai desberdinetara sartzeko

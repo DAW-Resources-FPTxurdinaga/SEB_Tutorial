@@ -98,7 +98,7 @@ SEB aplica varias medidas de seguridad:
 
 Ahora que entiendes qué es SEB y cómo funciona, el siguiente paso es instalarlo en tu dispositivo:
 
-- [Instalación de SEB](../instalazioa/instalatu.md)
+- [Instalación de SEB](../instalazioa/instalacion.md)
 
 ## Recursos adicionales
 

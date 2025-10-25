@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://example.com/Tutorial_SEB/</loc>
+        <lastmod>2025-10-25</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://example.com/Tutorial_SEB/"/>
+        <xhtml:link rel="alternate" hreflang="eu" href="https://example.com/Tutorial_SEB/eu/"/>
+    </url>
+    <url>
+        <loc>https://example.com/Tutorial_SEB/configuracion/archivos_configuracion/</loc>
+        <lastmod>2025-10-25</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://example.com/Tutorial_SEB/configuracion/archivos_configuracion/"/>
+        <xhtml:link rel="alternate" hreflang="eu" href="https://example.com/Tutorial_SEB/eu/configuracion/archivos_configuracion/"/>
+    </url>
+    <url>
+        <loc>https://example.com/Tutorial_SEB/configuracion/configuracion_basica/</loc>
+        <lastmod>2025-10-25</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://example.com/Tutorial_SEB/configuracion/configuracion_basica/"/>
+        <xhtml:link rel="alternate" hreflang="eu" href="https://example.com/Tutorial_SEB/eu/configuracion/configuracion_basica/"/>
+    </url>
+    <url>
+        <loc>https://example.com/Tutorial_SEB/configuracion/integracion_moodle/</loc>
+        <lastmod>2025-10-25</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://example.com/Tutorial_SEB/configuracion/integracion_moodle/"/>
+        <xhtml:link rel="alternate" hreflang="eu" href="https://example.com/Tutorial_SEB/eu/configuracion/integracion_moodle/"/>
+    </url>
+    <url>
+        <loc>https://example.com/Tutorial_SEB/instalazioa/instalacion/</loc>
+        <lastmod>2025-10-25</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://example.com/Tutorial_SEB/instalazioa/instalacion/"/>
+        <xhtml:link rel="alternate" hreflang="eu" href="https://example.com/Tutorial_SEB/eu/instalazioa/instalacion/"/>
+    </url>
+    <url>
+        <loc>https://example.com/Tutorial_SEB/introduccion/que_es_seb/</loc>
+        <lastmod>2025-10-25</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://example.com/Tutorial_SEB/introduccion/que_es_seb/"/>
+        <xhtml:link rel="alternate" hreflang="eu" href="https://example.com/Tutorial_SEB/eu/introduccion/que_es_seb/"/>
+    </url>
+    <url>
+        <loc>https://example.com/Tutorial_SEB/eu/</loc>
+        <lastmod>2025-10-25</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="eu" href="https://example.com/Tutorial_SEB/eu/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://example.com/Tutorial_SEB/"/>
+    </url>
+    <url>
+        <loc>https://example.com/Tutorial_SEB/eu/configuracion/archivos_configuracion/</loc>
+        <lastmod>2025-10-25</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="eu" href="https://example.com/Tutorial_SEB/eu/configuracion/archivos_configuracion/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://example.com/Tutorial_SEB/configuracion/archivos_configuracion/"/>
+    </url>
+    <url>
+        <loc>https://example.com/Tutorial_SEB/eu/configuracion/configuracion_basica/</loc>
+        <lastmod>2025-10-25</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="eu" href="https://example.com/Tutorial_SEB/eu/configuracion/configuracion_basica/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://example.com/Tutorial_SEB/configuracion/configuracion_basica/"/>
+    </url>
+    <url>
+        <loc>https://example.com/Tutorial_SEB/eu/configuracion/integracion_moodle/</loc>
+        <lastmod>2025-10-25</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="eu" href="https://example.com/Tutorial_SEB/eu/configuracion/integracion_moodle/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://example.com/Tutorial_SEB/configuracion/integracion_moodle/"/>
+    </url>
+    <url>
+        <loc>https://example.com/Tutorial_SEB/eu/instalazioa/instalacion/</loc>
+        <lastmod>2025-10-25</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="eu" href="https://example.com/Tutorial_SEB/eu/instalazioa/instalacion/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://example.com/Tutorial_SEB/instalazioa/instalacion/"/>
+    </url>
+    <url>
+        <loc>https://example.com/Tutorial_SEB/eu/introduccion/que_es_seb/</loc>
+        <lastmod>2025-10-25</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="eu" href="https://example.com/Tutorial_SEB/eu/introduccion/que_es_seb/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://example.com/Tutorial_SEB/introduccion/que_es_seb/"/>
+    </url>
+    <url>
+        <loc>https://example.com/Tutorial_SEB/eu/instalazioa/instalatu/</loc>
+        <lastmod>2025-10-25</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="eu" href="https://example.com/Tutorial_SEB/eu/instalazioa/instalatu/"/>
+    </url>
+    <url>
+        <loc>https://example.com/Tutorial_SEB/eu/konfigurazioa/fitxategiak_konfigurazioa/</loc>
+        <lastmod>2025-10-25</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="eu" href="https://example.com/Tutorial_SEB/eu/konfigurazioa/fitxategiak_konfigurazioa/"/>
+    </url>
+    <url>
+        <loc>https://example.com/Tutorial_SEB/eu/konfigurazioa/konfigurazioa_oinarria/</loc>
+        <lastmod>2025-10-25</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="eu" href="https://example.com/Tutorial_SEB/eu/konfigurazioa/konfigurazioa_oinarria/"/>
+    </url>
+    <url>
+        <loc>https://example.com/Tutorial_SEB/eu/konfigurazioa/moodle_integrazioa/</loc>
+        <lastmod>2025-10-25</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="eu" href="https://example.com/Tutorial_SEB/eu/konfigurazioa/moodle_integrazioa/"/>
+    </url>
+    <url>
+        <loc>https://example.com/Tutorial_SEB/eu/sarrera/zer_da_seb/</loc>
+        <lastmod>2025-10-25</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="eu" href="https://example.com/Tutorial_SEB/eu/sarrera/zer_da_seb/"/>
+    </url>
+</urlset>

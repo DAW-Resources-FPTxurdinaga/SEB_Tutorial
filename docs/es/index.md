@@ -4,19 +4,32 @@ Bienvenido al tutorial de Safe Exam Browser (SEB). Este material explica cómo u
 
 ## Estructura del tutorial
 
-### [1. Introducción](sarrera/zer_da_seb.md)
-- [¿Qué es Safe Exam Browser?](sarrera/zer_da_seb.md)
+### [1. Introducción](introduccion/que_es_seb.md)
+- [¿Qué es Safe Exam Browser?](introduccion/que_es_seb.md)
   - Definición y objetivos de SEB
   - Ventajas e inconvenientes
   - Casos de uso en entornos educativos
   - Integración con Moodle
 
-### [2. Instalación](instalazioa/instalatu.md)
-- [Instalación de SEB](instalazioa/instalatu.md)
+### [2. Instalación](instalazioa/instalacion.md)
+- [Instalación de SEB](instalazioa/instalacion.md)
   - Dónde descargarlo
   - Requisitos del sistema
   - Pasos de instalación en diferentes sistemas operativos
   - Capturas de pantalla e instrucciones
+
+### [3. Configuración](configuracion/configuracion_basica.md)
+- [Configuración Básica](configuracion/configuracion_basica.md)
+    - Ajustes generales de SEB
+    - Configuración de red
+    - Opciones de seguridad
+- [Integración con Moodle](configuracion/integracion_moodle.md)
+    - Configuración del módulo SEB en Moodle
+    - Asignación de configuraciones a exámenes
+- [Archivos de Configuración .seb](configuracion/archivos_configuracion.md)
+    - Tipos de configuración
+    - Creación y modificación de perfiles
+    - Importación/exportación de configuraciones
 
 ## Cómo usar este tutorial
 

@@ -1,3 +1,4 @@
+<a id="como-usar-los-archivos-seb"></a>
 # 📁 Archivos de configuración .seb
 
 ## ⚙️ Tipos de configuración
@@ -139,6 +140,7 @@ Los archivos .seb son archivos JSON que puedes editar con cualquier editor de te
 ## 🔄 Actualización de configuraciones
 
 Si necesitas migrar configuraciones a una nueva versión de SEB:
+
 1. Abre el archivo .seb en un editor de texto
 2. Actualiza la versión del esquema si es necesario
 3. Verifica la compatibilidad con la versión de SEB instalada
