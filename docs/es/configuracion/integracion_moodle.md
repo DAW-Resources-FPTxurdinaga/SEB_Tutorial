@@ -111,37 +111,37 @@ Puedes personalizar aún más la configuración mediante un archivo XML. Aquí t
 ### 1. Los estudiantes no pueden iniciar el examen
 - **Síntoma**: SEB no se inicia o muestra un error al abrir el examen
 - **Solución**:
-  - Verifica que la URL del sitio Moodle esté correctamente configurada en SEB
-  - Comprueba que el certificado SSL sea válido y esté correctamente instalado
-  - Asegúrate de que los estudiantes tengan instalada la versión correcta de SEB
+    - Verifica que la URL del sitio Moodle esté correctamente configurada en SEB
+    - Comprueba que el certificado SSL sea válido y esté correctamente instalado
+    - Asegúrate de que los estudiantes tengan instalada la versión correcta de SEB
 
 ### 2. Problemas con las restricciones
 - **Síntoma**: Las restricciones no se aplican correctamente
 - **Solución**:
-  - Verifica que el archivo de configuración SEB esté correctamente formateado
-  - Comprueba que no haya configuraciones contradictorias en el archivo XML
-  - Asegúrate de que el navegador SEB esté actualizado a la última versión
+    - Verifica que el archivo de configuración SEB esté correctamente formateado
+    - Comprueba que no haya configuraciones contradictorias en el archivo XML
+    - Asegúrate de que el navegador SEB esté actualizado a la última versión
 
 ### 3. Errores de conexión
 - **Síntoma**: Pérdida de conexión durante el examen
 - **Solución**:
-  - Verifica la estabilidad de la conexión de red
-  - Asegúrate de que los puertos necesarios (80, 443) estén abiertos en el firewall
-  - Configura un tiempo de espera adecuado en la configuración del cuestionario
+    - Verifica la estabilidad de la conexión de red
+    - Asegúrate de que los puertos necesarios (80, 443) estén abiertos en el firewall
+    - Configura un tiempo de espera adecuado en la configuración del cuestionario
 
 ## 📌 Consejos adicionales
 
 1. **Pruebas previas**:
-   - Siempre realiza pruebas con un usuario de prueba antes del examen real
-   - Verifica que todas las restricciones funcionen como se espera
+    - Siempre realiza pruebas con un usuario de prueba antes del examen real
+    - Verifica que todas las restricciones funcionen como se espera
 
 2. **Comunicación con los estudiantes**:
-   - Proporciona instrucciones claras sobre cómo instalar y usar SEB
-   - Realiza una sesión de prueba con los estudiantes antes del examen real
+    - Proporciona instrucciones claras sobre cómo instalar y usar SEB
+    - Realiza una sesión de prueba con los estudiantes antes del examen real
 
 3. **Copia de seguridad**:
-   - Guarda una copia de la configuración SEB utilizada
-   - Ten un plan B en caso de fallos técnicos
+    - Guarda una copia de la configuración SEB utilizada
+    - Ten un plan B en caso de fallos técnicos
 
 ## 🔗 Recursos adicionales
 
