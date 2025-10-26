@@ -1,3 +1,4 @@
+<a id="-nola-erabili-seb-fitxategiak"></a>
 # SEB konfigurazio fitxategiak
 
 ## ⚙️ Konfigurazio motak

@@ -1,4 +1,4 @@
-<a id="como-usar-los-archivos-seb"></a>
+<a id="-cómo-usar-los-archivos-seb"></a>
 # 📁 Archivos de configuración .seb
 
 ## ⚙️ Tipos de configuración
