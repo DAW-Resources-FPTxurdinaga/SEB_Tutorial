@@ -28,6 +28,14 @@ Safe Exam Browser debe descargarse desde el sitio web oficial para garantizar la
 
 ## Instalación en Windows
 
+### Paso 0: Activar el usuario de instalación
+
+Para instalar en los ordenadores del alumnado, es necesario activar previamente el usuario de instalación del curso:
+
+1. El profesor accederá a la url para la activación del usuario de instalación <a href="https://txad.fptxurdinaga.eus/" target="_blank">TXad Gestión de usuarios y equipos</a>
+2. Activar el usuario de instalación: `instalatu_<CURSO>`
+
+
 ### Paso 1: Descargar el instalador
 
 1. Ve a la <a href="https://safeexambrowser.org/download_en.html" target="_blank">página de descarga de SEB</a>
@@ -42,7 +50,8 @@ Safe Exam Browser debe descargarse desde el sitio web oficial para garantizar la
 
 1. Busca el archivo descargado (normalmente en la carpeta `Descargas`)
 2. Haz doble clic en el archivo para iniciar el instalador
-3. Windows mostrará una advertencia de seguridad:
+3. Realizaremos la instalación con el usuario de instalación del dominio instalatu_<CURSO>
+4. Windows mostrará una advertencia de seguridad:
    - Haz clic en **"Sí"** o **"Ejecutar"** para continuar
 
 ### Paso 3: Asistente de instalación

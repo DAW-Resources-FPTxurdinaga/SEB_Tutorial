@@ -28,6 +28,13 @@ Safe Exam Browser webgune ofizialetik deskargatu behar da segurtasuna bermatzeko
 
 ## Instalazioa Windows-en
 
+### 0. Pausua: Instalatzeko erabiltzailea aktibatu
+
+Ikaslearen ordenagailuetan instalatzeko, aurretik ikastaroaren instalazio erabiltzailea aktibatu behar da:
+
+1. Irakasleak instalazio erabiltzailea aktibatzeko helbidera joango da: <a href="https://txad.fptxurdinaga.eus/" target="_blank">TXad Erabiltzaile eta Ekipoen Kudeaketa</a>
+2. Aktibatu instalazio erabiltzailea: `instalatu_<IKASTAROA>`
+
 ### 1. Pausua: Instalatzailea Deskargatu
 
 1. Joan <a href="https://safeexambrowser.org/download_en.html" target="_blank">SEB deskarga orrira</a>
@@ -42,7 +49,8 @@ Safe Exam Browser webgune ofizialetik deskargatu behar da segurtasuna bermatzeko
 
 1. Bilatu deskargatutako fitxategia (normalean `Deskargak` karpetan)
 2. Klik bikoitza egin fitxategian instalatzailea abiarazteko
-3. Windows-ek segurtasun oharra erakutsiko du:
+3. Instalazioa `instalatu_<IKASTAROA>` domeinuko erabiltzailearekin egingo dugu
+4. Windows-ek segurtasun oharra erakutsiko du:
    - Klikatu **"Bai"** edo **"Exekutatu"** jarraitzeko
 
 ### 3. Pausua: Instalazio Morroia
